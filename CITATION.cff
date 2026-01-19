@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata from this file."
+title: "Fairness-Aware Stock Market Prediction with Event-Driven News Sentiment"
+version: 1.0.0
+date-released: "2026-01-19"
+license: "MIT"
+authors:
+  - family-names: "Papantonopoulos"
+    given-names: "Anastasios"
+keywords:
+  - stock-market
+  - machine-learning
+  - sentiment-analysis
+  - fairness
+  - time-series
+  - xgboost
+  - random-forest
+  - lstm
+repository-code: "https://github.com/tasospb/fairness-aware-stock-prediction"
+abstract: >-
+  MSc dissertation project code for predicting next-day stock returns using price-based
+  features and event-driven news sentiment (VADER) from Polygon.io, with sector-level
+  evaluation across S&P 500 stocks.
+preferred-citation:
+  type: thesis
+  title: "Fairness-Aware Stock Market Prediction with High-Risk News Sentiment Using Yahoo Finance and Polygon.io"
+  authors:
+    - family-names: "Papantonopoulos"
+      given-names: "Anastasios"
+  institution: "Kingston University"
+  year: 2026
