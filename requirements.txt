@@ -1,0 +1,30 @@
+# Core
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+requests
+
+# Data sources
+yfinance
+polygon-api-client
+
+# NLP / sentiment
+nltk
+textblob
+vaderSentiment
+newspaper3k
+beautifulsoup4
+lxml
+lxml_html_clean
+transformers
+
+# ML
+scikit-learn
+xgboost
+
+# Deep learning
+tensorflow
+keras
+keras-tuner==1.4.7
